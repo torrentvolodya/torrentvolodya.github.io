@@ -1,0 +1,30 @@
+.form_control_me-2{
+     margin-left: 750px;
+     margin-top:  12px;
+     border-radius: 8px;
+
+}
+
+.btn_btn-outline-success{
+     border-radius: 8px;
+}
+.game{
+    text-align: center;
+}
+
+.game div{
+    width: 400;
+    height: 500;
+    text-align: center;
+}
+
+.body_game div{
+    text-align: center;
+    margin-top: 50px;
+    width: 577px;
+    height: 900px;
+}
+.btn_btn-outline-success{
+
+}
+
